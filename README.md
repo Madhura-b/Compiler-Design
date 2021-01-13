@@ -1,4 +1,4 @@
-# Copmpiler-Design
+# Compiler-Design
 
 Project Description: The goal of the project is to implement a compiler for a custom small programming langauge. The compiler is written in Java. The target language is java byte code.
 
